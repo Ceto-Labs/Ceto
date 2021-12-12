@@ -26,7 +26,6 @@ CetoSwap Official website : https://ijnlb-jiaaa-aaaah-qaesa-cai.ic0.app/
 
 FT Swap (Beta):  https://hl7gt-bqaaa-aaaah-aadea-cai.ic0.app/
 
-NFT & F-NFT exchange (Beta) : https://hmsde-pqaaa-aaaai-qbcqq-cai.ic0.app/
 
 
 
