@@ -27,15 +27,17 @@ CetoSwap Official website : https://ijnlb-jiaaa-aaaah-qaesa-cai.ic0.app/
 
 FT Swap (Beta):  https://hl7gt-bqaaa-aaaah-aadea-cai.ic0.app/
 
-NFT & F-NFT exchange (Beta) : https://hmsde-pqaaa-aaaai-qbcqq-cai.ic0.app/
+NFT & F-NFT exchange (Beta) : https://7pnex-saaaa-aaaai-qbhwa-cai.raw.ic0.app/
 
 
 ### Connect Us 
 
-GitHub:https://github.com/Ceto-Labs
+Discord: https://discord.gg/pbQJ6PVH8x
+
+GitHub: https://github.com/Ceto-Labs
 
 Medium: https://cetoswap.medium.com
 
-E-mail:CetoLabs@hotmail.com
+E-mail: CetoLabs@hotmail.com
 
 Twitter:https://twitter.com/CetoSwap
